@@ -7,7 +7,8 @@ Public list of avaible art projects
 # Image generation
 
 ### [ruDAll-E](https://github.com/ai-forever/ru-dalle)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing)
+ <a href="https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 <img src="images/rainbow-full.png" />
 
 ### [Disco Diffusion Image generation](https://github.com/NightmareAI/disco-diffusion-1)
