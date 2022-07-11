@@ -18,12 +18,12 @@ Public list of avaible art projects
 <img src="images/TimeToDisco(0)_0.png" />
 
 ### [Pixray image generation](https://github.com/pixray/pixray)
-
+Генерация пиксельных генераций с помошью GAN + CLIP
  <a href="https://colab.research.google.com/github/pixray/pixray_notebooks/blob/master/pixray_simple.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 <img src="images/pixray.png" />
 
 
-## Image generation
+
 
 # Video generation
 
