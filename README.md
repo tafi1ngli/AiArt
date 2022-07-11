@@ -11,7 +11,7 @@ Public list of avaible art projects
 
 A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
-<img src="images_out/TimeToDisco/TimeToDisco(0)_0.png" />
+<img src="images/TimeToDisco(0)_0.png" />
 
 
 ## Image generation
