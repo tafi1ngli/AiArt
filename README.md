@@ -1,8 +1,12 @@
 # AiArt
-Public list of avaible art projects
+
 
 # Text generation
 
+### [ruGPT]([https://github.com/ai-forever/ru-dalle](https://github.com/ai-forever/ru-gpts)
+Большая русскоязычная модель для генерации картинки по тексту
+
+ <a href="https://colab.research.google.com/github/ai-forever/ru-gpts/blob/master/examples/ruGPT3XL_finetune_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 # Image generation
 
@@ -23,11 +27,18 @@ Public list of avaible art projects
 <img src="images/pixray.png" />
 
 
-
-
 # Video generation
+### [CogVideo](https://github.com/THUDM/CogVideo)
+Генерация видео с помощью трансформера
+https://user-images.githubusercontent.com/48993524/170857367-2033c514-3c9f-4297-876f-2468592a254b.mp4
 
-# 3d generation
+# Music generation
+### [Music Composer](https://github.com/ai-forever/music-composer)
+Генерация музыки с помощью трансформера
+
+
 
 # Superresolution
+### [ESRGAN](https://github.com/ai-forever/Real-ESRGAN)
+Увелчение разрешния изображения с помощью GAN
 
