@@ -3,7 +3,7 @@
 
 # Text generation
 
-### [ ruGPT ]([https://github.com/ai-forever/ru-dalle](https://github.com/ai-forever/ru-gpts)
+### [ruGPT](https://github.com/ai-forever/ru-gpts)
 Большая русскоязычная модель для генерации картинки по тексту
 
  <a href="https://colab.research.google.com/github/ai-forever/ru-gpts/blob/master/examples/ruGPT3XL_finetune_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
