@@ -26,6 +26,10 @@
  <a href="https://colab.research.google.com/github/pixray/pixray_notebooks/blob/master/pixray_simple.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 <img src="images/pixray.png" />
 
+### [Stable diffusion](https://github.com/CompVis/stable-diffusion) 
+Генерация реалистичеых изображений с помощью диффузии
+ <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<img src="images/stable_diff.png" />
 
 # Video generation
 ### [CogVideo](https://github.com/THUDM/CogVideo)
