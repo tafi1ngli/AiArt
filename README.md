@@ -28,13 +28,22 @@
 
 ### [Stable diffusion](https://github.com/CompVis/stable-diffusion) 
 Генерация реалистичеых изображений с помощью диффузии
- <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+ <a href="https://colab.research.google.com/drive/1piipZjjNbN6Keg7SLXCULOrxZSXRKNga?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 <img src="images/stable_diff.png" />
 
 # Video generation
 ### [CogVideo](https://github.com/THUDM/CogVideo)
 Генерация видео с помощью трансформера
-https://user-images.githubusercontent.com/48993524/170857367-2033c514-3c9f-4297-876f-2468592a254b.mp4
+
+<p align="center">
+  <img src="images/170857367-2033c514-3c9f-4297-876f-2468592a254b (1).mp4" height="260">
+</p>
+
+### [Apple Video ml-neuman](https://github.com/apple/ml-neuman)
+анимация людей с помощью двух NERF
+<p align="center">
+  <img src="images/teaser.gif" height="260">
+</p>
 
 # Music generation
 ### [ Music Composer ](https://github.com/ai-forever/music-composer)
