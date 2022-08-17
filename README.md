@@ -36,7 +36,7 @@
 Генерация видео с помощью трансформера
 
 <p align="center">
-  <img src="images/170857367-2033c514-3c9f-4297-876f-2468592a254b (1).mp4" height="260">
+  <img src="images/170857367-2033c514-3c9f-4297-876f-2468592a254b (1).mp4" height="512">
 </p>
 
 ### [Apple Video ml-neuman](https://github.com/apple/ml-neuman)
