@@ -45,6 +45,12 @@
   <img src="images/teaser.gif" height="260">
 </p>
 
+### [Text2live](https://github.com/omerbt/Text2LIVE)
+Иземенение фото и видео с помощью CLIP и vqgan
+<p align="center">
+  <img src="images/text2live.png" height="260">
+</p>
+
 # Music generation
 ### [ Music Composer ](https://github.com/ai-forever/music-composer)
 Генерация музыки с помощью трансформера
