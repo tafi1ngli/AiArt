@@ -33,6 +33,7 @@
 
 ### [StackMix](https://github.com/ai-forever/StackMix-OCR)
 Генерация текста определенным подчерком
+
 ![Пример](https://sun9-64.userapi.com/impg/xAFmDnVuuTmc4FM_FKhLPnq-KvrppD4x-DvUKg/hy1qKbRbS58.jpg?size=402x305&quality=96&sign=5bdfa7702f2e655cc991e274d4bb7b3f&type=album)
 
 
