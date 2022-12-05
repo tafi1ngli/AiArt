@@ -60,6 +60,9 @@ https://user-images.githubusercontent.com/48993524/170857367-2033c514-3c9f-4297-
 Генерация музыки с помощью трансформера
 
 
+ <a href="https://colab.research.google.com/drive/1IakmoUEbP19rJjb7o59sITLS0glmncUI?usp=sharing
+" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 
 # Superresolution
 ### [ ESRGAN ](https://github.com/ai-forever/Real-ESRGAN)
