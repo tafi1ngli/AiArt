@@ -6,13 +6,13 @@
 ### [ruGPT](https://github.com/ai-forever/ru-gpts)
 Большая русскоязычная модель для генерации картинки по тексту
 
- <a href="https://colab.research.google.com/github/ai-forever/ru-gpts/blob/master/examples/ruGPT3XL_finetune_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+ <a href="https://colab.research.google.com/drive/1IakmoUEbP19rJjb7o59sITLS0glmncUI?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 # Image generation
 
 ### [ruDAll-E](https://github.com/ai-forever/ru-dalle)
 Большая русскоязычная модель для генерации картинки по тексту
- <a href="https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+ <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 <img src="images/rainbow-full.png" />
 
